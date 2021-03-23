@@ -1,0 +1,24 @@
+@font-face{
+  font-family: "WebSymbolsRegular";
+  src: url('assets/css/fonts/websymbols-regular-webfont.eot');
+  src: url('assets/css/fonts/websymbols-regular-webfont.eot?#iefix') format('embedded-opentype'),
+     url('assets/css/fonts/websymbols-regular-webfont.woff') format('woff'),
+     url('assets/css/fonts/websymbols-regular-webfont.ttf') format('truetype'),
+     url('assets/css/fonts/websymbols-regular-webfont.svg#WebSymbolsRegular') format('svg');
+  font-weight:normal;
+  font-style: normal;
+}
+/*
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
