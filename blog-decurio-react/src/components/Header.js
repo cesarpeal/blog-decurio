@@ -36,7 +36,7 @@ class Header extends Component {
 			<header id="header">
 				<div className="titulo">
 					<img id="logo1" src="assets/images/cthulhu.png" />
-					<h1 id="titulo">EL SUBFONDO PELÁGICO</h1>
+					<h1 id="titulo">Blog Decurio</h1>
 				</div>
 				<div id="subheader">
 					<nav id="menu">
